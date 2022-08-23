@@ -34,10 +34,10 @@ if passw==password:
 			haray=int(haraaga)-int(lacagta)
 			udiro=int(input(f"Ma hubtaa in aad {udir} Ugu shubtid ${lacagta}\n1.Haa\n2.Maya\n"))
 			if udiro==1:
-										if int(haraaga)>=int(lacagta):
-											print(f"Waxaad ${lacagta} Ugu Shubtay {udir} Haraagagu waa ${haray}")
-										else:
-											print("Haraaga Xisaabtada kugama filna")
+				if int(haraaga)>=int(lacagta):
+					print(f"Waxaad ${lacagta} Ugu Shubtay {udir} Haraagagu waa ${haray}")
+				else:
+					print("Haraaga Xisaabtada kugama filna")
 					
 			elif udiro==2:
 				print("Howshaan Laguma Guuleysan Macsalaamo")
