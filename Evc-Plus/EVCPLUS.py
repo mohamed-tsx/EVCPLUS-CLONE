@@ -1,6 +1,6 @@
 import datetime #waxaan soo import gareyay library-gan oo naga caawinaya date and time wakhtiga loo baahd
 haraaga=54  #qeybtan waxaa u isticmaalay keydinta haraaga waxaan ku haraaga kadibna marku qofku lacagta dirayo looga jaro
-lambarkeyga=619880131      #qeybtan waxaan ku keydiyay lambarkeyga waxaana isticmaaleyna markii aan lacag direyno si aan uga feejignano in aan lacag u dirno isla lambarkeenaa
+lambarkeyga=610000000      #qeybtan waxaan ku keydiyay lambarkeyga waxaana isticmaaleyna markii aan lacag direyno si aan uga feejignano in aan lacag u dirno isla lambarkeenaa
 password=int(input("Fadlan geli pin cusub\n")) #qeybtan waxay keydisaa pin-ka cusub
 pin=int(input("Fadlan hubi pin-kaga\n")) #qebtan waxey hubisaa pin-ka cusub ee lagu keydiyay variable-ka kore inuu sax yahay iyo i kale
 while pin!=password:
